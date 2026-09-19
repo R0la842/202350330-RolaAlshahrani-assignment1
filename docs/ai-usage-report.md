@@ -6,7 +6,7 @@ I used ChatGPT during this assignment to:
 - Help me with the CSS design and layout.
 - Help me understand and use CSS Grid and media queries for the responsive layout.
 - Help me link images correctly.
-- Explain how JavaScript connects with HTML using getElementById().
+- Explain how JavaScript connects with HTML using `getElementById()`.
 - Help me identify and fix mistakes in my JavaScript code.
 - Provide explanations and documentation support when needed.
 
