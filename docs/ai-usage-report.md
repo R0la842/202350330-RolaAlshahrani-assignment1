@@ -9,7 +9,8 @@ I used ChatGPT during this assignment to:
 - Explain how JavaScript connects with HTML using `getElementById()`.
 - Help me identify and fix mistakes in my JavaScript code.
 - Provide explanations and documentation support when needed.
-
+- Help me organize the README and create a Table of Contents with links to the different sections.
+ 
 ## Benefits & Challenges
 
 ### Benefits

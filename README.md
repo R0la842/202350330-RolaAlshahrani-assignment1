@@ -29,12 +29,12 @@ This project is a personal portfolio website developed using HTML, CSS, and Java
 - CSS
 - JavaScript
 
-## Project Structure
+## Project Files
 
-- `index.html` - Contains the structure and content of the portfolio website.
-- `style.css ` - Contains the styling and responsive layout.
-- `script.js` - Contains the JavaScript functionality.
-- `docs/` - Contains the project documentation and AI usage report.
+- `index.html` 
+- `style.css ` 
+- `script.js` 
+- `docs/` 
 
 ## How to Run Locally
 
