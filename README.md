@@ -14,7 +14,6 @@
 
 This project is a personal portfolio website developed using HTML, CSS, and JavaScript. It introduces me as a Computer Science student and showcases some of my academic projects.
 
-The website includes an About Me section, a Projects section, and a Contact section. It also uses responsive design to display the website on different screen sizes.
 
 ## Features
 
