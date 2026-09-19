@@ -6,7 +6,8 @@
 - [Project Description](#project-description)
 - [Features](#features)
 - [Technologies Used](#technologies-used)
-- [Project Structure](#project-structure)
+- [Prerequisites](#prerequisites)
+- [Project Files](#project-files)
 - [How to Run Locally](#how-to-run-locally)
 - [AI Use](#ai-use)
 
@@ -28,6 +29,10 @@ This project is a personal portfolio website developed using HTML, CSS, and Java
 - HTML
 - CSS
 - JavaScript
+
+## Prerequisites
+- A web browser such as Chrome, Firefox, Safari, or Edge.
+- Visual Studio Code (optional).
 
 ## Project Files
 
