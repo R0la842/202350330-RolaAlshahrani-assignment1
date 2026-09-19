@@ -1,3 +1,4 @@
+/* Global box-sizing reset */
 * {
 box-sizing: border-box;
 }
@@ -19,6 +20,7 @@ color: #4a4e69;
 h2 {
 color: #3d405b;
 }
+/* Project section layout */
 #projects {
 display: grid;
 grid-template-columns: repeat(2, 1fr);
@@ -42,7 +44,6 @@ form {
 display: flex;
 flex-direction: column;
 gap: 10px;
-max-width: 500px;
 }
 input,
 textarea {
@@ -57,7 +58,12 @@ color: white;
 border: none;
 border-radius: 5px;
 cursor: pointer;
+
 }
+button:hover {
+background-color: #3d405b;
+}
+/* Responsive layout for smaller screens */
 @media (max-width: 768px) {
 #projects {
 grid-template-columns: 1fr;

@@ -1,3 +1,4 @@
+// Display a greeting based on the time of day
 const hour = new Date().getHours();
 const greeting = document.getElementById("greeting");
 if (hour < 12) {
